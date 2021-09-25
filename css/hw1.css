@@ -1,0 +1,33 @@
+header {
+  text-align: center;
+  background-color: #21c08b;
+  color: rgb(22, 22, 179);
+  font-family: serif;
+  font-style: oblique;
+  width: 100%;
+  text-align: center;
+}
+h1 {
+  font-style: italic;
+  font-family: Cambria;
+  font-size: 60px;
+  text-transform: uppercase;
+}
+nav {
+  text-align: left;
+}
+.left {
+  display: none;
+}
+.right {
+  background-color: #21c08b;
+  height: 300px;
+}
+
+h2 {
+  font-size: 30px;
+  color: rgb(22, 22, 179);
+  font-family: monospace;
+  font-style: oblique;
+  text-transform: uppercase;
+}
